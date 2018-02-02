@@ -1,5 +1,8 @@
+A-Weather-Client
+----------------------------
 Gets current and forecast weather data from weather.gov.  Using weather.gov recommendations, 
 a method is also provided which groups weather conditions and maps each group to a graphical weather icon.
+
 
 Data sources
 ----------------------------	
